@@ -74,31 +74,31 @@ curl http://localhost:5001/status
 
 #### Dockerfile Configuration
 
-<img src="./screenshots/dockerfile.png" alt="Dockerfile" width="700" />
+<img src="./screenshots/dockerfile.png" alt="Dockerfile" width="600" />
 
 #### Docker Build Output
 
-<img src="./screenshots/docker-build.png" alt="Docker Build" width="700" />
+<img src="./screenshots/docker-build.png" alt="Docker Build" width="600" />
 
 #### Docker Container Run
 
-<img src="./screenshots/docker-run.png" alt="Docker Run" width="700" />
+<img src="./screenshots/docker-run.png" alt="Docker Run" width="600" />
 
 #### Docker Container Status
 
-<img src="./screenshots/docker-ps.png" alt="Docker PS" width="700" />
+<img src="./screenshots/docker-ps.png" alt="Docker PS" width="600" />
 
 #### Health Endpoint Validation
 
-<img src="./screenshots/health-endpoint.png" alt="Health Endpoint" width="700" />
+<img src="./screenshots/health-endpoint.png" alt="Health Endpoint" width="600" />
 
 #### Status Endpoint Validation
 
-<img src="./screenshots/status-endpoint.png" alt="Status Endpoint" width="700" />
+<img src="./screenshots/status-endpoint.png" alt="Status Endpoint" width="600" />
 
 #### Project Structure Overview
 
-<img src="./screenshots/project-structure.png" alt="Project Structure" width="700" />
+<img src="./screenshots/project-structure.png" alt="Project Structure" width="600" />
 
 </div>
 
